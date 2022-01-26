@@ -1,0 +1,44 @@
+body{
+margin: 30px 40%;
+background-color: #5f60ab;
+color:#fff;
+}
+  
+h3,p{
+  font-size: 1.2rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+
+}
+input,select,textarea{
+  margin-bottom: 20px;
+}
+form{
+   
+    color: #fff;
+    background-color: #28284d;
+}
+.form-layout{
+
+  padding: 20px 20px;
+}
+.submit{
+background-color: #00b05c;
+padding: 3px 98px;
+}
+.submit:hover{
+    background-color: #1ee284;
+}
+.input-area{
+    padding-left: 65px;
+
+}
+.input-area-two{
+    padding-left: 87px ;
+    padding-right: 87px;
+}
+
+.input-area-three{
+    padding-left:105px;
+    padding-right:105px;
+}
